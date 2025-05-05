@@ -45,7 +45,7 @@ O CryptoMonitor é um aplicativo Android desenvolvido em Kotlin com o objetivo d
 
 
 ### Depois de atualizar:
-<img src="https://github.com/user-attachments/assets/03f47d52-24c5-4789-9226-776b0f3ff055" alt="Depois da atualização" width="300">
+<img src="https://github.com/user-attachments/assets/57cd157c-a41f-40a9-bf2c-b04902277cf3" alt="Depois da atualização" width="300">
 
 > As imagens mostram a interface principal do app, onde o usuário visualiza a cotação atual do Bitcoin e a data/hora da última consulta.
 
